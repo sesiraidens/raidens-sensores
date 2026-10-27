@@ -417,3 +417,4 @@ class Buzzer(SensorBase):
             self.tone(500, 200)
             time.sleep(0.1)
 
+
